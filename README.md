@@ -1,4 +1,4 @@
-# Hi 👋, I'm Samuel Wong (Wang Chak)
+# Hi, I'm Samuel
 
 ### Quantitative Finance & Computer Science Enthusiast
 **City University of Hong Kong | Double Degree Candidate**
