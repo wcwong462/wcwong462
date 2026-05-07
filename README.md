@@ -7,7 +7,7 @@
 
 ### 🚀 Professional Focus
 - 🔭 **Current Research**: Contributor to **QfinZero** — An LLM-based trading agent toolchain (**Accepted by ACL 2026**).
-- 🏗️ **Infrastructure**: Developed high-concurrency algorithmic trading engines and toxic flow detection mechanisms for digital assets.
+- 🏗️ **Infrastructure**: Developed high-concurrency algorithmic trading engines.
 - 🌱 **Quantitative Learning**: Currently deep-diving into **Interest Rate Parity, Cross-Currency Basis, and Stochastic Volatility Modeling**.
 - 💬 **Ask me about**: Quantitative Research, HFT Infrastructure, and GTO Risk Management.
 
