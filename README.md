@@ -20,14 +20,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=wcwong462&show_icons=true&theme=transparent&title_color=007acc&text_color=777&icon_color=007acc" alt="Samuel's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcwong462&layout=compact&theme=transparent&title_color=007acc&text_color=777" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=cpp,py,r,java,js,ts,matlab" title="Languages" />
