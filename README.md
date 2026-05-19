@@ -13,13 +13,6 @@
 
 ---
 
-### 📂 Key Projects & Experience
-- **[Natixis CIB]** Quantitative Analyst Intern (Global Markets - Fixed Income & Rates)
-- **[Sundawn Capital]** Algorithmic Trading Intern - Built real-time market-making engines with asyncio/WebSocket.
-- **[QfinZero]** Designed core quantitative engines bridging factor backtesting to event-driven execution.
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=cpp,py,r,java,js,ts,matlab" title="Languages" />
