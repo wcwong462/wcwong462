@@ -1,15 +1,14 @@
 # Hi, I'm Samuel
 
-### Quantitative Finance & Computer Science Enthusiast
-**City University of Hong Kong | Double Degree Candidate**
+### Computational Finance & Computer Science Student
+**City University of Hong Kong**
 
 ---
 
-### 🚀 Professional Focus
-- 🔭 **Current Research**: Contributor to **QfinZero** — An LLM-based trading agent toolchain (**Accepted by ACL 2026**).
-- 🏗️ **Infrastructure**: Developed high-concurrency algorithmic trading engines.
-- 🌱 **Quantitative Learning**: Currently deep-diving into **Interest Rate Parity, Cross-Currency Basis, and Stochastic Volatility Modeling**.
-- 💬 **Ask me about**: Quantitative Research, HFT Infrastructure, and GTO Risk Management.
+### 🚀 About Me
+- 🔭 **Experiences**: Natixis Quantitative Analyst Intern (Summer 2026), Crypto Trading Intern (Sep 2025 - May 2026), CityU Research Mentee (Sep 2025 - Current)
+- 🏗️ **Research**: QfinZero (ACL Demo 2026), Alphabench (Post-submission, ICML 2026), Agentic Pricing Discovery (Ongoing)
+- 💬 **Ask me about**: Quantitative Research, Trading Infrastructure, and Derivative Pricing & Risk Management.
 
 ---
 
@@ -21,9 +20,6 @@
 </p>
 
 ---
-
-### ⚡ Fun Fact
-> **I’m a Poker player who treats life’s risk management like a GTO (Game Theory Optimal) strategy.** 🃏
 
 ### 📫 Connect with me:
 <p align="left">
