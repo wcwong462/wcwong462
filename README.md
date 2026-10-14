@@ -26,8 +26,3 @@
 <a href="https://linkedin.com/in/samuelwong1114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelwong1114" height="30" width="40" /></a>
 <a href="mailto:wcwong462.samuel@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="30" width="30" /></a>
 </p>
-
----
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=wcwong462&label=Profile%20Views&color=007acc&style=flat" alt="Views" />
-</p>
