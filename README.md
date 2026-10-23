@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 - 🔭 **Experiences**: Natixis Quantitative Analyst Intern (Summer 2026), Crypto Trading Intern (Sep 2025 - May 2026), CityU Research Mentee (Sep 2025 - Current)
-- 🏗️ **Research**: QfinZero (ACL Demo 2026), Alphabench (Post-submission, ICML 2026), Agentic Pricing Discovery (Ongoing)
+- 🏗️ **Research**: QfinZero (ACL Demo 2026), Alphabench (Post-submission, ICLR 2026), Agentic Pricing Discovery (Ongoing)
 - 💬 **Ask me about**: Quantitative Research, Trading Infrastructure, and Derivative Pricing & Risk Management.
 
 ---
